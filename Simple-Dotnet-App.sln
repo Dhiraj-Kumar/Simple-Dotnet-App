@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple-Dotnet-App", "Simple-Dotnet-App\Simple-Dotnet-App.csproj", "{209BDC73-33DF-4246-8B24-2A5D8772BC7D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple-Dotnet-App.Tests", "Simple-Dotnet-App.Tests\Simple-Dotnet-App.Tests.csproj", "{9C65C18E-F6AE-437B-822A-BC9CB453D968}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{209BDC73-33DF-4246-8B24-2A5D8772BC7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{209BDC73-33DF-4246-8B24-2A5D8772BC7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{209BDC73-33DF-4246-8B24-2A5D8772BC7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C65C18E-F6AE-437B-822A-BC9CB453D968}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C65C18E-F6AE-437B-822A-BC9CB453D968}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C65C18E-F6AE-437B-822A-BC9CB453D968}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C65C18E-F6AE-437B-822A-BC9CB453D968}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
